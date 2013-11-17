@@ -1,0 +1,6 @@
+Yammerfall is a continuous stream of messages on Yammer, the private social network for your company. 
+
+It is deployed at yammerfall.com
+
+Yammerfall is primarily an HTML5 app making significant use of jQuery. It is packaged as a Rails application for
+easy deployment on PaaS services such as Heroku.
